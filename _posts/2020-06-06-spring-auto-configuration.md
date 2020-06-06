@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [SpringBoot] Spring AutoConfiguration
+title: Spring AutoConfiguration(md)
 date: 2020-06-06 00:00:00 +0300
 description: # Add post description (optional)
 img: software.jpg # Add image post (optional)
